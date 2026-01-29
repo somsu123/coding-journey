@@ -1,7 +1,7 @@
 # Quick Commit Script
 # Double-click this file to make a daily commit!
 
-Write-Host "🚀 Daily Commit Automation" -ForegroundColor Cyan
+Write-Host "Daily Commit Automation" -ForegroundColor Cyan
 Write-Host "=========================" -ForegroundColor Cyan
 Write-Host ""
 
